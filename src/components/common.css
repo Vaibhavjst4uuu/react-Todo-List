@@ -1,0 +1,12 @@
+.delete-button{
+    border:none;
+    background-color: aliceblue;
+    /* float: right; */
+}
+.del-div{
+    margin-right: 2%;
+}
+.form-check{
+    display: flex;
+    justify-content: space-between;
+}
